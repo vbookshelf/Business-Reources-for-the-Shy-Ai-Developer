@@ -1,6 +1,11 @@
 ## Business-Resources-for-the-Shy-Ai-Developer
 <b>Links to practical resources for building commercial Ai products and for launching your startup.</b>
 
+<br>
+
+<img src="http://bee.test.woza.work/assets/student.jpg" width="400"></img>
+<br>
+
 
 <br>
 <br>
