@@ -10,13 +10,14 @@
 <br>
 <br>
 
-Consider your exit strategy before launching your startup.<br>
-Video by Raw Startup<br>
-https://www.youtube.com/watch?v=BqPB88pcYTI&t=3s
-
 Create a business model in less than 1 hour.<br>
 Video by Raw Startup<br>
 https://www.youtube.com/watch?v=BqPB88pcYTI
+
+Consider your exit strategy before launching your startup.<br>
+Video by Raw Startup<br>
+https://www.youtube.com/watch?v=aPGhJF3zFGc&t=1s
+
 
 Understand the day to day realities that your users face.<br>
 Google research paper:<br>
