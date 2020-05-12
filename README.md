@@ -38,3 +38,7 @@ Cold Fusion youtube channel - tech and business documentaries.<br>
 Stay updated on the latest tech innovations.<br>
 https://www.youtube.com/user/coldfustion/featured
 
+To keep your costs down live in a low cost city.<br>
+Chiang Mai in Thailand is a great base to bootstrap your startup.<br>
+Video by Daneger and Stacey<br>
+https://www.youtube.com/watch?v=WTaMSDSwTyk
