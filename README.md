@@ -11,14 +11,14 @@
 <br>
 
 Consider your exit strategy before launching your startup.<br>
-Video by Raw Startup.<br>
+Video by Raw Startup<br>
 https://www.youtube.com/watch?v=BqPB88pcYTI&t=3s
 
 Create a business model in less than 1 hour.<br>
-Video by Raw Startup.<br>
+Video by Raw Startup<br>
 https://www.youtube.com/watch?v=BqPB88pcYTI
 
-Uderstand the day to day realities that your users face.<br>
+Understand the day to day realities that your users face.<br>
 Google research paper:<br>
 A Human-Centered Evaluation of a Deep Learning System
 Deployed in Clinics for the Detection of Diabetic
