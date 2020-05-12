@@ -10,7 +10,7 @@
 <br>
 <br>
 
-Create a business model in less than 1 hour.<br>
+How to turn your idea into a business model in less than 1 hour.<br>
 Video by Raw Startup<br>
 https://www.youtube.com/watch?v=BqPB88pcYTI
 
