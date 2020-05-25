@@ -48,5 +48,5 @@ https://www.youtube.com/watch?v=WTaMSDSwTyk
 <br>
 <br>
 <b><i>Stay hungry.<br>
-  Stay foolish.</i></b>
+  Stay foolish.</i></b><br>
 ~ Steve Jobs
