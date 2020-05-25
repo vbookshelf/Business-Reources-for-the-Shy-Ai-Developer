@@ -1,5 +1,5 @@
 ## Startup-Resources-for-Shy-Ai-Developers
-<b>Links to practical resources for building commercial Ai products and for launching your startup.</b>
+<b>Links to practical resources for building commercial Ai web apps and for launching your startup.</b>
 
 <br>
 
@@ -43,3 +43,10 @@ To keep your costs down live in a low cost city.<br>
 Chiang Mai in Thailand is a great base to bootstrap your startup.<br>
 Video by Daneger and Stacey<br>
 https://www.youtube.com/watch?v=WTaMSDSwTyk
+
+
+<br>
+<br>
+<b><i>Stay hungry.<br>
+  Stay foolish.</i></b>
+~ Steve Jobs
