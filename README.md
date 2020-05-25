@@ -1,4 +1,4 @@
-## Business-Resources-for-Shy-Ai-Developers
+## Startup-Resources-for-Shy-Ai-Developers
 <b>Links to practical resources for building commercial Ai products and for launching your startup.</b>
 
 <br>
