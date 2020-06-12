@@ -1,5 +1,5 @@
 ## the-Shy-Developers-Guide-to-World-Domination
-<b>Links to practical resources for getting the right mindset, building commercial Ai web apps and for launching your startup.</b>
+<b>A mish mash of practical resources for getting the right mindset, communicating effectively, building commercial Ai web apps and for launching your startup.</b>
 
 <br>
 
@@ -9,6 +9,22 @@
 
 <br>
 <br>
+
+### Classic Books
+
+How to Win Friends and Influence People<br>
+by Dale Carnegie
+
+Rich Dad Poor Dad<br>
+by Robert Kiyosaki
+
+On Writing Well<br>
+by William Zinsser
+
+The Elements of Style<br>
+by Strunk and White
+
+### Other Resources for the Perplexed
 
 How to turn your idea into a business model in less than 1 hour.<br>
 Video by Raw Startup<br>
@@ -43,6 +59,10 @@ To keep your costs down live in a low cost city.<br>
 Chiang Mai in Thailand is a great base to bootstrap your startup.<br>
 Video by Daneger and Stacey<br>
 https://www.youtube.com/watch?v=WTaMSDSwTyk
+
+Writing English as a Second Language<br>
+by Blog post by William Zinsser<br>
+https://theamericanscholar.org/writing-english-as-a-second-language/#.XuMJM54zaRs
 
 
 <br>
