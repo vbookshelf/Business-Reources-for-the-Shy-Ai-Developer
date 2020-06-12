@@ -61,7 +61,7 @@ Video by Daneger and Stacey<br>
 https://www.youtube.com/watch?v=WTaMSDSwTyk
 
 Writing English as a Second Language<br>
-by Blog post by William Zinsser<br>
+Blog post by William Zinsser<br>
 https://theamericanscholar.org/writing-english-as-a-second-language/#.XuMJM54zaRs
 
 
