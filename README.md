@@ -1,5 +1,5 @@
-## Startup-Resources-for-Shy-Ai-Developers
-<b>Links to practical resources for building commercial Ai web apps and for launching your startup.</b>
+## the-Shy-Developers-Guide-to-World-Domination
+<b>Links to practical resources for getting the right mindset, building commercial Ai web apps and for launching your startup.</b>
 
 <br>
 
