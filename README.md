@@ -1,4 +1,4 @@
-## the-Shy-Developers-Guide-to-World-Domination
+## the-Shy-Developer's-Guide-to-World-Domination
 <b>A mish mash of practical resources for getting the right mindset, communicating effectively, building commercial Ai web apps and for launching your startup.</b>
 
 <br>
