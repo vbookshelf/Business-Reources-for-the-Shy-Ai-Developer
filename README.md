@@ -68,6 +68,10 @@ Writing English as a Second Language<br>
 Blog post by William Zinsser<br>
 https://theamericanscholar.org/writing-english-as-a-second-language/#.XuMJM54zaRs
 
+As you plan your startup you'll realize that you need your own login and registration system.<br>
+This Udemy course will teach you how to build one.<br>
+https://www.udemy.com/course/user-authentication-code-a-simple-login-system-with-php/
+
 
 <br>
 <br>
